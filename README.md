@@ -11,8 +11,8 @@
 
 **`Rust Engineer · Polymarket Specialist · Prediction Market Infrastructure`**
 
-[![X](https://img.shields.io/badge/@crellos__0x-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/crellos_0x)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/crellos_0x)
+[![X](https://img.shields.io/badge/@crellios-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/crellios)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/crellios)
 
 </div>
 
@@ -94,14 +94,14 @@ If it touches Polymarket at the infrastructure level — order management, posit
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=CrellOS-DEV&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrellOS-DEV&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Crellios-DEV&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crellios-DEV&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CrellOS-DEV&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Crellios-DEV&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -113,11 +113,11 @@ If it touches Polymarket at the infrastructure level — order management, posit
 
 | Project | Description | Stack |
 |---|---|---|
-| **[polymarket-rs](https://github.com/CrellOS-DEV)** | Full-featured async Rust SDK for Polymarket CLOB — orders, markets, positions, WS feeds | `Rust` `Tokio` `ethers-rs` |
-| **[clob-orderbook](https://github.com/CrellOS-DEV)** | In-memory CLOB orderbook engine with lock-free reads and sub-microsecond matching | `Rust` `Rayon` |
-| **[pm-data-pipeline](https://github.com/CrellOS-DEV)** | Event-driven pipeline ingesting Polymarket resolution data into TimescaleDB | `Rust` `PostgreSQL` `TimescaleDB` |
-| **[market-monitor](https://github.com/CrellOS-DEV)** | Daemon for tracking open positions, P&L, and price movement with Telegram alerts | `Rust` `Axum` `Redis` |
-| **[evm-rpc-router](https://github.com/CrellOS-DEV)** | Load-balanced RPC router for Polygon/Ethereum with health checks and rate limiting | `Rust` `Axum` |
+| **[polymarket-rs](https://github.com/Crellios-DEV)** | Full-featured async Rust SDK for Polymarket CLOB — orders, markets, positions, WS feeds | `Rust` `Tokio` `ethers-rs` |
+| **[clob-orderbook](https://github.com/Crellios-DEV)** | In-memory CLOB orderbook engine with lock-free reads and sub-microsecond matching | `Rust` `Rayon` |
+| **[pm-data-pipeline](https://github.com/Crellios-DEV)** | Event-driven pipeline ingesting Polymarket resolution data into TimescaleDB | `Rust` `PostgreSQL` `TimescaleDB` |
+| **[market-monitor](https://github.com/Crellios-DEV)** | Daemon for tracking open positions, P&L, and price movement with Telegram alerts | `Rust` `Axum` `Redis` |
+| **[evm-rpc-router](https://github.com/Crellios-DEV)** | Load-balanced RPC router for Polygon/Ethereum with health checks and rate limiting | `Rust` `Axum` |
 
 ---
 
@@ -151,7 +151,7 @@ I write Rust because the guarantees matter. No GC pauses during a fill. No race 
 
 **Serious about prediction markets? Let's talk.**
 
-[![X](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/crellos_0x)
-[![Telegram](https://img.shields.io/badge/Message%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crellos_0x)
+[![X](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/crellios)
+[![Telegram](https://img.shields.io/badge/Message%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crellios)
 
 </div>
