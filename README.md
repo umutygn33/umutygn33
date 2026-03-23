@@ -94,14 +94,14 @@ If it touches Polymarket at the infrastructure level — order management, posit
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Crellios-DEV&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crellios-DEV&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=crellios&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crellios&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Crellios-DEV&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=crellios&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -113,11 +113,11 @@ If it touches Polymarket at the infrastructure level — order management, posit
 
 | Project | Description | Stack |
 |---|---|---|
-| **[polymarket-rs](https://github.com/Crellios-DEV)** | Full-featured async Rust SDK for Polymarket CLOB — orders, markets, positions, WS feeds | `Rust` `Tokio` `ethers-rs` |
-| **[clob-orderbook](https://github.com/Crellios-DEV)** | In-memory CLOB orderbook engine with lock-free reads and sub-microsecond matching | `Rust` `Rayon` |
-| **[pm-data-pipeline](https://github.com/Crellios-DEV)** | Event-driven pipeline ingesting Polymarket resolution data into TimescaleDB | `Rust` `PostgreSQL` `TimescaleDB` |
-| **[market-monitor](https://github.com/Crellios-DEV)** | Daemon for tracking open positions, P&L, and price movement with Telegram alerts | `Rust` `Axum` `Redis` |
-| **[evm-rpc-router](https://github.com/Crellios-DEV)** | Load-balanced RPC router for Polygon/Ethereum with health checks and rate limiting | `Rust` `Axum` |
+| **[polymarket-rs](https://github.com/crellios)** | Full-featured async Rust SDK for Polymarket CLOB — orders, markets, positions, WS feeds | `Rust` `Tokio` `ethers-rs` |
+| **[clob-orderbook](https://github.com/crellios)** | In-memory CLOB orderbook engine with lock-free reads and sub-microsecond matching | `Rust` `Rayon` |
+| **[pm-data-pipeline](https://github.com/crellios)** | Event-driven pipeline ingesting Polymarket resolution data into TimescaleDB | `Rust` `PostgreSQL` `TimescaleDB` |
+| **[market-monitor](https://github.com/crellios)** | Daemon for tracking open positions, P&L, and price movement with Telegram alerts | `Rust` `Axum` `Redis` |
+| **[evm-rpc-router](https://github.com/crellios)** | Load-balanced RPC router for Polygon/Ethereum with health checks and rate limiting | `Rust` `Axum` |
 
 ---
 
