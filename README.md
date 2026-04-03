@@ -1,18 +1,15 @@
 <div align="center">
 
 ```
- ██████╗██████╗ ███████╗██╗     ██╗     ██╗ ██████╗ ███████╗
-██╔════╝██╔══██╗██╔════╝██║     ██║     ██║██╔═══██╗██╔════╝
-██║     ██████╔╝█████╗  ██║     ██║     ██║██║   ██║███████╗
-██║     ██╔══██╗██╔══╝  ██║     ██║     ██║██║   ██║╚════██║
-╚██████╗██║  ██║███████╗███████╗███████╗██║╚██████╔╝███████║
- ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝ ╚═════╝ ╚══════╝
+██╗   ██╗███╗   ███╗██╗   ██╗████████╗██╗   ██╗ ██████╗ ███╗   ██╗
+██║   ██║████╗ ████║██║   ██║╚══██╔══╝██║   ██║██╔════╝ ████╗  ██║
+██║   ██║██╔████╔██║██║   ██║   ██║   ██║   ██║██║  ███╗██╔██╗ ██║
+██║   ██║██║╚██╔╝██║██║   ██║   ██║   ██║   ██║██║   ██║██║╚██╗██║
+╚██████╔╝██║ ╚═╝ ██║╚██████╔╝   ██║   ╚██████╔╝╚██████╔╝██║ ╚████║
+ ╚═════╝ ╚═╝     ╚═╝ ╚═════╝    ╚═╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝
 ```
 
 **`Rust Engineer · Polymarket Specialist · Prediction Market Infrastructure`**
-
-[![X](https://img.shields.io/badge/@crellios-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/crellios)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/crellios)
 
 </div>
 
@@ -107,20 +104,6 @@ If it touches Polymarket at the infrastructure level — order management, posit
 
 ---
 
-## Selected Work
-
-> _Production infrastructure is private. Below are highlights of public tooling and open contributions._
-
-| Project | Description | Stack |
-|---|---|---|
-| **[polymarket-rs](https://github.com/crellios)** | Full-featured async Rust SDK for Polymarket CLOB — orders, markets, positions, WS feeds | `Rust` `Tokio` `ethers-rs` |
-| **[clob-orderbook](https://github.com/crellios)** | In-memory CLOB orderbook engine with lock-free reads and sub-microsecond matching | `Rust` `Rayon` |
-| **[pm-data-pipeline](https://github.com/crellios)** | Event-driven pipeline ingesting Polymarket resolution data into TimescaleDB | `Rust` `PostgreSQL` `TimescaleDB` |
-| **[market-monitor](https://github.com/crellios)** | Daemon for tracking open positions, P&L, and price movement with Telegram alerts | `Rust` `Axum` `Redis` |
-| **[evm-rpc-router](https://github.com/crellios)** | Load-balanced RPC router for Polygon/Ethereum with health checks and rate limiting | `Rust` `Axum` |
-
----
-
 ## Philosophy
 
 ```rust
@@ -146,12 +129,5 @@ I write Rust because the guarantees matter. No GC pauses during a fill. No race 
 - 💬 Open to serious collaboration on prediction market infrastructure or trading systems
 
 ---
-
-<div align="center">
-
-**Serious about prediction markets? Let's talk.**
-
-[![X](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/crellios)
-[![Telegram](https://img.shields.io/badge/Message%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crellios)
 
 </div>
